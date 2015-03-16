@@ -5,7 +5,11 @@
     "Kirill Lebedev <echo.bjornd@gmail.com>"
   ],
   "description": "jQuery interactive vector maps",
-  "main": "jquery-jvectormap-1.2.2.min.js",
+  "main": [
+    "jquery-jvectormap-1.2.2.min.js",
+    "jquery-jvectormap-world-mill-en.js",
+    "jquery-jvectormap-1.2.2.css"
+   ]
   "keywords": [
     "jquery",
     "vector",
